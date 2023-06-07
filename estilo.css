@@ -18,6 +18,28 @@
   position: relative;
 }
 
+.cuadro1 {
+  height: 300px;
+  width: 300px;
+  border: 5px solid blue;
+  text-align: center;
+}
+.cuadro2 {
+  height: 300px;
+  width: 300px;
+  border: 5px solid green;
+  text-align: center;
+}
+.cuadro3 {
+  height: 300px;
+  width: 300px;
+  border: 5px solid orange;
+  text-align: center;
+}
+select {
+  height: 35px;
+  width: 650px;
+}
 footer {
   position: fixed;
   bottom: 0px;
